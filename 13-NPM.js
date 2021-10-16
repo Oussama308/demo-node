@@ -19,3 +19,5 @@ const _ = require('loadash ')
 // const newItems = _.flattenDeep(items)
 
 // console.log(newItems);
+
+//add it to github we should add gitignore file with node_modules
